@@ -4,6 +4,7 @@
 
 📄 Descripción - Enunciado del ejercicio
 Este proyecto consiste en la creación y manipulación de una lista de meses utilizando Java.
+
 Se deben realizar las siguientes tareas:
 
 Crear una clase Month con un atributo name para almacenar el nombre del mes.
